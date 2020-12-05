@@ -1,7 +1,4 @@
 /*Derek Chun
- * TY2 CISC 1115
- * Assignment 5
- * Due 10/10/19
  * This program calculates the tax base on income,status and age
  */
 
